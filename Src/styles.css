@@ -1,0 +1,84 @@
+body {
+  background: linear-gradient(
+    179.7deg,
+    rgb(248, 126, 126) -2%,
+    rgb(251, 206, 143) 30.3%,
+    rgb(184, 252, 233) 57.2%,
+    rgb(118, 162, 229) 80.3%
+  );
+  font-family: "Julius Sans One", sans-serif;
+}
+h1 {
+  text-align: center;
+  font-size: 55px;
+  margin-top: 35px;
+  margin-bottom: 0px;
+  color: #000;
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  margin-top: 15px;
+  color: #fff;
+}
+
+h3 {
+  text-align: center;
+  font-size: 40px;
+  margin: 15px 0 0px 0;
+}
+
+a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #000;
+}
+p {
+  text-align: center;
+  font-size: 55px;
+  margin-top: 40px;
+}
+button {
+  border-radius: 6px;
+}
+.container {
+  width: 100%;
+  padding: 15px 150px 10px 150px;
+  text-align: center;
+}
+.input-group-text:hover {
+  cursor: pointer;
+}
+div.main-icon {
+  font-size: 90px;
+  color: #fac70b;
+  text-align: center;
+}
+.low-temperature {
+  font-size: 13px;
+}
+.sunrise {
+  position: relative;
+  left: -290px;
+  bottom: 250px;
+}
+.sunset {
+  position: relative;
+  left: -290px;
+  bottom: 250px;
+}
+.humidity {
+  position: relative;
+  left: 300px;
+  bottom: 328px;
+}
+.wind {
+  position: relative;
+  left: 300px;
+  bottom: 328px;
+}
+.footer {
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 15px;
+}
